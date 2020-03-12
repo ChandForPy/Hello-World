@@ -17,7 +17,7 @@
 #sum		= val1 + val2
 #print ("SUM of two intigers are: ", sum)
 
-
+# First Git
 lst = [10, 2, 5, 9, 89, 50, 29, 58, 15, 12, 1, 25, 88]
 print(lst)
 n = len(lst)
